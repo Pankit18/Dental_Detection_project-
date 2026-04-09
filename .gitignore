@@ -1,0 +1,7 @@
+﻿# Ignore runtime and large files
+runs/
+__pycache__/
+*.pyc
+*.pt
+env/
+venv/
